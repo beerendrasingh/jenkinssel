@@ -23,6 +23,7 @@ public class PassMavenParameterTest {
    public void deleteContactTest()
    {
 	   System.out.println("execcute delete contact test");
+	   System.out.println("hello this is virendar singh");
    }
 		
 		
