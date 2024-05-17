@@ -17,7 +17,15 @@ public class PassMavenParameterTest {
 		System.out.println(USERNAME);
 		System.out.println(PASSWORD);
 		
+	}	
 		
-	}
+   @Test
+   public void deleteContactTest()
+   {
+	   System.out.println("execcute delete contact test");
+   }
+		
+		
+	
 
 }
